@@ -1,7 +1,7 @@
 # SQLyser
 Solutions for all your SQL problems in one repo :)
 
-Here are the certificates and badges I have earned after solving these problems
+Here are the certificates and badges which I have earned after solving these problems
 
 HackerRank SQL (Basic) certificate:
 ![image](https://github.com/user-attachments/assets/410d2e71-6882-403c-b146-5c72f30a9f36)
